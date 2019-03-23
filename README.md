@@ -14,7 +14,7 @@
 + 安装
 ```
 git clone git@github.com:vegaoqiang/mongo-data-distribution.git
-pip install requirements
+pip install -r requirements.txt
 ```
 + 配置
   - 根据自己的实际环境, 修改mongodata-distribution.py对应信息
