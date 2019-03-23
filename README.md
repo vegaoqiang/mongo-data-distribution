@@ -1,5 +1,5 @@
 ### mongo data distribution
-分析MongoDB集群中collections数据大小分布图, collection大小统计的是storageSize
+生成MongoDB集群中collections数据在各个shard中的大小分布图, collection大小统计的是storageSize
 + 示例图
 ![avatar](./docs/mongodata20190322.png)
 
